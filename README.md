@@ -15,7 +15,8 @@ Visualizations: Includes pie charts and line graphs for data analysis.
 Streamlit Integration: Provides an interactive web interface for visualizing data.
 
 Project Structure:
-NunamProject.py: Main Streamlit application file.
+Nunam project/nunam.py: Main Streamlit application file.
+streamlit run nunam.py --server.port 8080 
 README.md: Project documentation.
 
 Queries and Data:
